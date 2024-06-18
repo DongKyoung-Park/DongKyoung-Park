@@ -2,7 +2,7 @@
   
   <div align=center>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongKyoungPark)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDongKyoung-Park&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
   <img align="center" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
   
@@ -16,7 +16,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=footer&text=Developer Tech&fontSize=20&animation=fadeIn&fontAlign=10&fontAlignY=55" alt='Developer Tech'/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=gradient&text=Developer%20Tech&section=footer&fontSize=40&textBg=false&fontAlign=18&fontAlignY=55" alt='Developer Tech'/>
 
 ### Languages
 
@@ -129,10 +129,10 @@
 
 <!-- ### Github Stats -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=50&section=footer&text=Github Stats&fontSize=20&animation=fadeIn&fontAlign=8.5&fontAlignY=55" alt='Github Stats'/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=gradient&text=Github%20Stats&section=footer&fontSize=40&textBg=false&fontAlign=15&fontAlignY=55" alt='Github Stats'/>
 
 <!-- ![Anurag's github stats ](https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark) -->
-<img align="left" alt="GIF" width="480" src="https://github-readme-stats.vercel.app/api?username=DongKyoungPark&show_icons=true&theme=dark" />
+<img align="left" alt="GIF" width="480" src="https://github-readme-stats.vercel.app/api?username=DongKyoung-Park&show_icons=true&theme=dark" />
 
 <!-- <img align="right" height="200" width="300"  alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 <img align="right" height="200" width="300"  alt="GIF" src="https://raw.githubusercontent.com/DongKyoungPark/DongKyoungPark/master/svg/developer.gif" />
